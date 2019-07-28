@@ -1,0 +1,19 @@
+{
+  "name": "tamplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp.spritesmith": "^6.10.1",
+    "merge-stream": "^2.0.0",
+    "node-sass": "^4.12.0"
+  }
+}
